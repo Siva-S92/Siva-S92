@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Sivajnanam S and I'm a Fullstack Developer, from India...</p>
-<a href="https://mern-portfolio-demo-frontend.vercel.app/" target="_blank">Portfolio</a>
+Check out my [portfolio](https://mern-portfolio-demo-frontend.vercel.app/) to see my work!
 
 ###
 
