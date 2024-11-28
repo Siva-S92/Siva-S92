@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating applications since a few years back..<br>📚 I'm currently learning about how to integrate the AI technologies in to our  applications<br>🎯 Goals: to travel with new technologies and help the people to avail all the services through online...<br>🎲 Fun fact: enjoy what i do...</p>
+<p align="left">✨ Creating applications since a few years back..<br>📚 I'm currently learning about how to integrate the AI technologies in to our  applications<br>🎯 Goals: to travel with new technologies and help the people to avail all the services through online at anytime...<br>🎲 Fun fact: enjoy what i do...</p>
 
 ###
 
